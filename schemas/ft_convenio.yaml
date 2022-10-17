@@ -53,7 +53,7 @@ fields:
     bareNumber: true
     decimalChar: '.'
     description: |
-      - >
+      - > teste marcela
       Valor financeiro previsto no convênio / parceria para o órgão concedente ou entidade estadual 
       parceiro repassar ao convenente / Organização da Sociedade Civil (OSC) parceira, incluindo termos aditivos.
     constraints:
