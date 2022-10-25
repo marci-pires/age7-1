@@ -87,7 +87,7 @@ fields:
     bareNumber: true
     decimalChar: '.'
     description: |
-        Valor financeiro previsto no convênio / parceria referente a contrapartida financeira a ser dada pelo convenente 
+       Valor financeiro previsto no convênio / parceria referente a contrapartida financeira a ser dada pelo convenente 
        (entidade ou pessoa que firmou a parceria com o órgão concedente), incluindo termos aditivos.
     constraints:
       required: true
@@ -111,7 +111,6 @@ fields:
     bareNumber: true
     decimalChar: '.'
     description: |
-      - > 
       Valor financeiro repassado pelo concedente/órgão ou entidade estadual parceiro ao convenente / Organização da 
       Sociedade Civil (OSC) parceria, referente ao(s) convênios(s)/ parceria(s) firmado(s) entre as partes por meio de 
       pagamento via SIAFI. 
